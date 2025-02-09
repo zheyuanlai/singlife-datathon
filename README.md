@@ -3,6 +3,8 @@
 ## Overview
 This project is developed as part of the NUS Datathon 2025, in collaboration with Singlife, to recommend financial advisors (agents) to customers using a data-driven approach. The model employs a multi-stage pipeline involving clustering, classification, and ranking techniques to optimize agent-client matching, aiming to enhance policy adoption and business efficiency.
 
+![workflow](method.png)
+
 ## Installation
 To set up the environment, install the required dependencies using:
 
